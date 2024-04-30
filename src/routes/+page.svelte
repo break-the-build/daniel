@@ -27,7 +27,6 @@
 		<div class="px-5 py-4">
 			<a
 				href="/resume"
-				target="_blank"
 				class="block w-full rounded-lg bg-blue-500 px-4 py-2 text-center font-semibold text-white hover:bg-blue-600"
 			>
 				Check Out My Resume
