@@ -1,4 +1,4 @@
-<div class="mx-4 max-w-lg relative">
+<div class="ml-16 max-w-lg relative">
     <!-- Download and social links -->
     <div class="absolute right-0 top-0 flex gap-2 p-4">
         <a href="/path/to/file.pdf" download="filename.pdf" class="text-sm text-gray-900 bg-white rounded-lg border border-gray-200 px-2 py-1 hover:bg-gray-100">PDF</a>
@@ -9,7 +9,7 @@
 
 Daniel Luedke
 
-<div class="mx-4 max-w-lg">
+<div class="ml-6 max-w-lg">
 <ol class="relative border-s border-gray-200 dark:border-gray-700">                  
     <li class="mb-10 ms-4">
         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
@@ -43,6 +43,47 @@ Daniel Luedke
         <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Product Marketing Manager</h4>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
     </li>
+    <li class="mb-10 ms-4">
+        <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+        <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+        <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-800">Network Computing Architects</h3>
+        <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Sr. Sales Engineer / Security Analysis Practice Manager</h4>
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
+    </li>
+    <li class="mb-10 ms-4">
+        <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+        <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+        <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-800">Corbis</h3>
+        <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Systems Engineer</h4>
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
+    </li>  <li class="mb-10 ms-4">
+        <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+        <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+        <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-800">ViAir</h3>
+        <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Sr. Sales Engineer / Security Analysis Practice Manager</h4>
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
+    </li>
+ <li class="mb-10 ms-4">
+    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+    <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+    <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-800">Loudeye</h3>
+    <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Sr. Sales Engineer / Security Analysis Practice Manager</h4>
+    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
+</li>
+ <li class="mb-10 ms-4">
+    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+    <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+    <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-800">KMI</h3>
+    <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Sr. Sales Engineer / Security Analysis Practice Manager</h4>
+    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
+</li>
+  <li class="mb-10 ms-4">
+    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+    <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+    <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-800">Expeditors International</h3>
+    <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-800">Sr. Sales Engineer / Security Analysis Practice Manager</h4>
+    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Managed the go to market for the core BIG-IP load balancer and security products.</p>
+</li>
 </ol>
 </div>
 <div class="mx-4 max-w-lg relative">
